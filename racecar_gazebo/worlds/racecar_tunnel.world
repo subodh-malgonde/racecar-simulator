@@ -51,7 +51,7 @@
 
   <include>
     <uri>model://racecar_description/models/MIT_Tunnel</uri>
-    <pose>6 20 0 0 0 0</pose>
+    <pose>25 20.2 0 0 0 0</pose>
   </include>
 
 </world>
