@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+  <include file="$(find racecar_gazebo)/launch/racecar.launch">
+    <arg name="world_name" value="home"/>
+    <arg name="initial_x" value="2.0"/>
+    <arg name="initial_y" value="0.8"/>
+    <arg name="initial_yaw" value="3.14"/>
+  </include>
+</launch>
